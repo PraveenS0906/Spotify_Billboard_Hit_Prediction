@@ -32,5 +32,5 @@ The final dataset after pre-processing and cleaning had around 18.5K rows.
 ![Top Artist of each year](https://user-images.githubusercontent.com/66065738/149577556-1dd7d205-3009-418a-a4a2-34016a354f3a.png)
 ![distplot](https://user-images.githubusercontent.com/66065738/149577541-746d73a3-4ad6-4d4e-a4cb-31407eefd50c.png)
 ![boxplots](https://user-images.githubusercontent.com/66065738/149577562-2ae19921-c5b5-4b12-a4a4-bae27fde36a2.png)
-![feature selection](https://user-images.githubusercontent.com/66065738/149577546-6b41dbdc-101c-446a-af05-c82dbecf9bc5.png)
-![confusion mat](https://user-images.githubusercontent.com/66065738/149577540-18760e71-4cf9-4457-b8a6-c74b4ae0a5ca.png)
+![image](https://user-images.githubusercontent.com/66065738/149578560-78439a6b-aa06-4382-a7ba-f34cf786e451.png)
+![image](https://user-images.githubusercontent.com/66065738/149578392-6a65d89e-d5fe-492c-af4e-4917fbd80e43.png)
