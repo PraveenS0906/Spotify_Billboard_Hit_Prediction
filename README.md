@@ -33,4 +33,17 @@ The final dataset after pre-processing and cleaning had around 18.5K rows.
 ![distplot](https://user-images.githubusercontent.com/66065738/149577541-746d73a3-4ad6-4d4e-a4cb-31407eefd50c.png)
 ![boxplots](https://user-images.githubusercontent.com/66065738/149577562-2ae19921-c5b5-4b12-a4a4-bae27fde36a2.png)
 ![image](https://user-images.githubusercontent.com/66065738/149578560-78439a6b-aa06-4382-a7ba-f34cf786e451.png)
+
+# Models & Results:
+**Random Forest**: This model yielded an accuracy of 82.5% on the test dataset. The confusion matrix for the results is shown below:
+
 ![image](https://user-images.githubusercontent.com/66065738/149578392-6a65d89e-d5fe-492c-af4e-4917fbd80e43.png)
+
+# References:
+https://www.kaggle.com/edalrami/19000-spotify-songs
+https://spotipy.readthedocs.io/en/2.19.0/
+https://developer.spotify.com/documentation/web-api/reference/#/operations/search
+https://towardsdatascience.com/a-practical-guide-to-exploratory-data-analysis-spotify-dataset-d8f703da663e
+https://www.statisticshowto.com/probability-and-statistics/skewed-distribution/
+https://en.wikipedia.org/wiki/Billboard_Hot_100
+https://developer.spotify.com/discover/
