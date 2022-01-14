@@ -22,5 +22,15 @@ The features were as follows:
 
 **Properties**: Loudness, Speechiness, Mode, Key, Instrumentalness, Explicit, Duration, Time Signature, Release year, Popularity
 
+The final dataset after pre-processing and cleaning had around 18.5K rows.
 
-
+# EDA
+![heat_map](https://user-images.githubusercontent.com/66065738/149577551-ac4c6f90-7727-4bc1-a667-e3104ba24b41.png)
+![song release each year](https://user-images.githubusercontent.com/66065738/149577554-a9088a2e-9108-4a04-a092-48945235a2c8.png)
+![Characterstics of features over a period](https://user-images.githubusercontent.com/66065738/149577564-2fcff73c-db6f-4cff-8472-3e5e5f0f4ea9.png)
+![Top20 Billboard hits](https://user-images.githubusercontent.com/66065738/149577558-8ddcfcc8-6f59-4678-9ca0-f7466ed494b1.png)
+![Top Artist of each year](https://user-images.githubusercontent.com/66065738/149577556-1dd7d205-3009-418a-a4a2-34016a354f3a.png)
+![distplot](https://user-images.githubusercontent.com/66065738/149577541-746d73a3-4ad6-4d4e-a4cb-31407eefd50c.png)
+![boxplots](https://user-images.githubusercontent.com/66065738/149577562-2ae19921-c5b5-4b12-a4a4-bae27fde36a2.png)
+![feature selection](https://user-images.githubusercontent.com/66065738/149577546-6b41dbdc-101c-446a-af05-c82dbecf9bc5.png)
+![confusion mat](https://user-images.githubusercontent.com/66065738/149577540-18760e71-4cf9-4457-b8a6-c74b4ae0a5ca.png)
